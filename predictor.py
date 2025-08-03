@@ -1,7 +1,7 @@
 import joblib
 import numpy as np
 
-# https://joblib.readthedocs.io/en/latest/generated/joblib.load.html#joblib.load
+# Documentatie https://joblib.readthedocs.io/en/latest/generated/joblib.load.html#joblib.load
 model = joblib.load("regresie_pret_masini.pkl")
 print("Modelul a fost incarcat")
 
